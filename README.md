@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @damonbakker
-- 👀 I’m interested in full stack development & mobile development
-- 🌱 I’m currently learning vuejs, react native, Swedish
+- 👋 Hi, I’m @damonbakker.  Freelancer in full stack and mobile development
+- 👀 I'm based in Sweden but operate worldwide
+- 🌱 I’m currently learning vuejs, flutter, Swedish
 
 <!---
 damonbakker/damonbakker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
